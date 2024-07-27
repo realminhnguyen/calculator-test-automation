@@ -1,3 +1,4 @@
+# This function performs basic arithmetic operations and raises an error if an invalid operation is provided or if dividing by zero.
 def calculator(a, b, operation):
     """
     Peforms basic arithmetic operations.
