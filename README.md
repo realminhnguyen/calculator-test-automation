@@ -19,7 +19,7 @@ This project demonstrates test automation skills for a basic calculator function
 
 1. (in terminal) Clone the repository:
     ```
-    git clone "insert link"
+    git clone https://github.com/realminhnguyen/calculator-test-automation.git
     ```
 
 2. (in terminal) Navigate to the project directory:
